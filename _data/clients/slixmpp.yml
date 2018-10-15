@@ -1,0 +1,5 @@
+name: slixmpp
+url: https://slixmpp.readthedocs.io/
+work_in_progress: yes
+status: 90
+tracking_issue: https://lab.louiz.org/poezio/slixmpp/merge_requests/1
